@@ -1,0 +1,162 @@
+html {
+    font-family: Georgia, serif;
+}
+
+body {
+    margin: 0px auto;
+}
+
+h1 {
+    background-color: #B31D1C;
+    color: white;
+    text-align: center;
+    margin: 0px;
+}
+
+h1 a, h1 a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+h2 {
+    color: black;
+    background-color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+p a, p a:visited {
+    color: black;
+}
+
+header {
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+
+header #title {
+    padding: 11px;
+}
+
+#menu {
+    background-color: #F0EEE4;
+    display: block;
+    padding-top: 20px;
+}
+
+#menu ul {
+    background-color: #F0EEE4;
+    margin: 0px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    list-style: none;
+}
+
+#menu li {
+    background-color: #F0EEE4;
+    margin: 0px;
+    padding: 10px;
+    display: inline;
+}
+
+#menu li a {
+    background-color: #F0EEE4;
+    color: black;
+    font-size: 18px;
+}
+
+.nav_anchor {
+    margin: 15px;
+}
+
+#active_page {
+    font-weight: bold;
+    border: black;
+    border-style: solid;
+    border-width: 2px;
+    padding: 10px;
+}
+
+.login {
+    background-color: #F0EEE4;
+    margin-top: 0px;
+    padding: 20px;
+    border-bottom: 1px solid #999791;
+}
+
+.user_msg, .user_msg a {
+    color: black;
+    text-align: center;
+    font-size: 18px;
+}
+
+.tags {
+    text-align: center;
+    width: 56%;
+    margin: 0px auto;
+}
+
+.multi_img {
+    margin: 0px auto;
+    width: 700px;
+    max-height: 800px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    box-shadow: 3px 3px 6px silver;
+}
+
+.centered_imgs {
+    text-align: center;
+}
+
+.single_img {
+    display: block;
+    margin: 0px auto;
+    width: 800px;
+    max-height: 950px;
+    margin-bottom: 20px;
+    box-shadow: 3px 3px 6px silver;
+}
+
+figcaption, figcaption a, figcaption a:visited {
+    color: dimgray;
+    text-align: center;
+    font-size: 16px;
+}
+
+form {
+    margin: 0px auto;
+    text-align: center;
+}
+
+#loginForm input[type="submit"] {
+    float: none;
+    display: block;
+    margin: 0px auto;
+}
+
+#uploadFile ul {
+    list-style: none;
+    padding: 0px;
+}
+
+#uploadFile li {
+    margin: 20px;
+}
+
+#uploadFile, .img_options {
+    width: 600px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    background-color: #FBFAF8;
+}
+
+footer, footer a:link, footer a:visited {
+    padding: 2px;
+    text-align: center;
+    font-size: 17px;
+    background-color: #B31D1C;
+    color: white;
+    margin-top: 40px;
+}
