@@ -1,6 +1,6 @@
 # Photo Gallery Website with User Access Controls
 
-Created for INFO 2300: Intermediate Design and Programming for the Web with Cornell Computing and Information Science
+Created for INFO 2300: Intermediate Design and Programming for the Web with Cornell Computing and Information Science (CIS)
 
 Link to website: https://fast-cliffs-43363.herokuapp.com/
 
